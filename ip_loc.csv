@@ -1,4 +1,4 @@
-ip,loc,city,region
+ip,geo_loc,city_name,region_name
 84.74.88.79,"47.5592,7.8433",Möhlin,Aargau
 194.230.158.119,"47.3667,8.5500",Zürich,Zurich
 194.230.158.34,"47.3667,8.5500",Zürich,Zurich
